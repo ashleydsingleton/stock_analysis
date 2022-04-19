@@ -340,10 +340,10 @@ Sub AllStocksAnalysisRefactored()
 End Sub
 ```
 #### Link to Original green_stocks.xlsm
-[Green Stocks](https://github.com/ashleydsingleton/stock-analysis/blob/main/green_stocks.xlsm)
+[Green Stocks](https://github.com/ashleydsingleton/stock_analysis/blob/main/green_stocks.xlsm)
 
 #### Link to Refactored VBA_Challenge.xlsm
-[VBA Challenge](https://github.com/ashleydsingleton/stock-analysis/blob/main/VBA_Challenge.xlsm)
+[VBA Challenge](https://github.com/ashleydsingleton/stock_analysis/blob/main/VBA_Challenge.xlsm)
 
 ## Summary
 #### By creating the most efficient code possible and without risking the integrity of our data outcomes, developers and analysts can create scalable, more robust and lasting code that can flex to our clients' needs. Refactoring is about making good better. By making your code more efficient, you are improving logic, taking less steps, lowering costs by using less memory and making it easier for future users who could potentially have to pick up where you left off. Refactoring makes code more readable and useable for years to come. 
